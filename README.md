@@ -7,3 +7,4 @@ Blue
 Indigo 
 Violet
 add some code /changes - feature branch from test
+adding new code to staging - red-orange, blue-grey, cream
