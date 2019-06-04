@@ -4,7 +4,7 @@ Orange
 Yellow
 Green
 Blue
-Mango
+Mangos are orange
 Indigo 
 Violet
 add some code /changes - feature branch from test
